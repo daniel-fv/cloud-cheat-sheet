@@ -1,7 +1,6 @@
 # Git
 
-Git is an open source version control system, which supports your development tasks,
-especially in distributed code projects.
+Git is an open source version control system, which supports your development tasks, especially in distributed code projects.
 
 ## Installation
 
@@ -25,6 +24,7 @@ git config --global user.email "developer@mydomain.com"
 ```
 
 ## Using Git
+
 
 The following commands can be helpful for working with `git`.
 

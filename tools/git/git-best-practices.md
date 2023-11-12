@@ -1,6 +1,5 @@
 ## Guía Github 
 Tutorial básico git y github.
-
 ## Sistema distribuido de control
 ![](images/distributed-version-control.png)
 
