@@ -35,7 +35,6 @@ En la imagen se puede ver que ninguna de las nuevas características entran al '
 Otra forma más completa de ver todos los posibles branches.
 ![](images/github-branches-with-hotfix.png)
 
-
 ## Instalación de git
 **Git** es la herramienta que utilizamos para trabajar con repositorios, branches y con la cual hacemos commit, push y merge. **Github** es el sitio web que aloja repositorios, interactuamos con Github por medio de git al igual que lo podríamos hacer con otros repositorios como Gitlab o Bitbucket.
 
