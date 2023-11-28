@@ -40,3 +40,12 @@ code $PROFILE
 ## (Optional) Set up starship Prompt
 You can customize the look and feel of PowerShell with the Starship Prompt ([[starship]]).
 
+## Azure Auto Manage Machine Configuration (new DSC)
+Azure Policy as main engine, compatible with DSC.
+
+## Check Edition
+```powershell
+$PSEdition
+$PSVersionTable
+```
+
